@@ -3,7 +3,7 @@
     <div class="row g-0">
       <div class="col-md-4">
         <img
-          src="https://www.freedigitalphotos.net/images/img/homepage/87357.jpg"
+          src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
           class="img-fluid rounded-start"
           alt="..."
         />
